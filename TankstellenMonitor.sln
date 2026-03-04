@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankstellenMonitor", "TankstellenMonitor.csproj", "{6A79DBA2-28E4-A766-C48D-0EBE839B0045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A79DBA2-28E4-A766-C48D-0EBE839B0045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A79DBA2-28E4-A766-C48D-0EBE839B0045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A79DBA2-28E4-A766-C48D-0EBE839B0045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A79DBA2-28E4-A766-C48D-0EBE839B0045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0296BAAE-AA63-4063-8792-6BC3B0375B6A}
+	EndGlobalSection
+EndGlobal
